@@ -1,4 +1,4 @@
-requests
-pillow
+google-genai>=0.3.0
+Pillow>=10.0.0
+requests>=2.31.0
 numpy<2
-google-genai
