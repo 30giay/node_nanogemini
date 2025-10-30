@@ -311,3 +311,4 @@ NODE_DISPLAY_NAME_MAPPINGS = {
 # đặt nhóm hiển thị riêng
 
 ComfyUI_Nano3shop.CATEGORY = "Nano3shop"
+
