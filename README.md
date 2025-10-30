@@ -1,4 +1,4 @@
-# Nano3shop
+# NanoGemini
 
 A ComfyUI custom node for Google's **Gemini 2.5 Flash Image** (aka "Nano Banana") model - the state-of-the-art image generation and editing AI.
 
